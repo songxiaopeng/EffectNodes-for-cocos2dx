@@ -1,3 +1,8 @@
 #when copy project folder from MAC to windows, some .DS_Store and ._xxx files appear. ignore them.
 *.DS_Store
 *._*
+*.obj
+/effectNodes-for-cocos2dx-3x/project/cocos2d/
+effectNodes-for-cocos2dx-3x/project/proj.win32/Debug.win32
+effectNodes-for-cocos2dx-3x/project/proj.win32/.vs
+effectNodes-for-cocos2dx3x.VC.db
